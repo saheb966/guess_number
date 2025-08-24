@@ -47,5 +47,9 @@ Make sure Python is installed on your system. This game uses the built-in `tkint
 * Resettable game session
 * Feedback for every guess
 
+---
+
+### Author
+* Name :- **Mankirat Singh**
 
 Let me know if you want to include enhancements like difficulty settings or high-score tracking.
